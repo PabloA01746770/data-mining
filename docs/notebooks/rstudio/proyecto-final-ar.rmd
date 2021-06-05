@@ -85,7 +85,7 @@ Escribe la fecha actual (**NOTE-01**): <FECHA>
 **CODE-02** Datos generales
 Asigna tus datos a las siguientes variables:
 ```{r}
-NOMBRE_COMPLETO = "Nombre Apellidos"
+NOMBRE_COMPLETO = "PRUEBA"
 DIGITOS_MATRICULA = 0
 ```
 
